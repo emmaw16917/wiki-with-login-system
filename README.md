@@ -1,2 +1,2 @@
-# login-system-with-vue-and-gin
-create a simple, basic login system with vue and gin
+# wiki with login system
+Build a simple wiki with login system, using Vue, Gin, MySQL
