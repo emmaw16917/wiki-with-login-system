@@ -1,0 +1,7 @@
+CREATE TABLE pages (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  title VARCHAR(200) NOT NULL UNIQUE,
+  slug VARCHAR(250) NOT NULL UNIQUE,
+  content TEXT,
+  last_editor_id INT NOT NULL 
+);
